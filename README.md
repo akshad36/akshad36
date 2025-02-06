@@ -1,9 +1,10 @@
-
+ 
 - <h1 align="center">Hi 👋, I'm Akshad Watekar</h1>
 <h3 align="center">A passionate Data Analyst from India learning to contribute in and develop my skills</h3>
 
 - 📫 How to reach me **akshadwatekar1@gmail.com**
 - 👀 I’m Aspiring Data Anlayst and cloud Enthusiast  ...
+- My Tech stack is { Python , EXCEL ,SQL , PowerBI, Tableau } & cloud:{ Linux,AWS(S3 ,VPC,IAM,EBS),Azure fundamental , Git
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshad-watekar-878341208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshad-watekar-878341208/" height="30" width="40" /></a>
